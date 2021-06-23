@@ -1,5 +1,5 @@
 # Quiz Website
- A simple Quiz Website developed using html, css and javascript
+✏️ A simple Quiz Website developed using html, css and javascript ❗
 
 # Project deployed at
 
