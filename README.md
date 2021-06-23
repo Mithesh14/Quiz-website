@@ -3,7 +3,7 @@
 
 # Project deployed at
 
-<a href="https://mithesh14.github.io/Github-profile/">Quiz Website</a>
+<a href="https://mithesh14.github.io/Quiz-website/">Quiz Website</a>
 
 # Screenshots 
 
